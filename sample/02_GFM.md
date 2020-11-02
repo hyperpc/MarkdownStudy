@@ -34,7 +34,6 @@ My task list this week:
 
 ## Fence Code (Tab/ ```/~~~) ##
 
-
     this is a code
 
 ```csharp
